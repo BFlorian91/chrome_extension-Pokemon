@@ -13,5 +13,8 @@
 		"js": [
 			"app.js"
 		]
-	} ]
+	} ],
+	"background": {
+		"js": "background.js"
+	}
 }
